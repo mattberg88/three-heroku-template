@@ -1,0 +1,12 @@
+{
+  "name": "three-heroku-template",
+  "version": "1.0.0",
+  "description": "minimal boilerplate for threejs for deploying to heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
